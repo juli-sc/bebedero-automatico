@@ -17,8 +17,8 @@ const char* ssid = "Juli";
 const char* password = "jorgeroberto";
 
 // Configuración de CallMeBot para enviar WhatsApp
-String phoneNumber = "5492216188851";  // Número de teléfono con código de país
-String apiKey = "5428134";             // API Key de CallMeBot
+String phoneNumber = "54..........";  // Número de teléfono con código de país
+String apiKey = "..........";             // API Key de CallMeBot
 String mensaje = "bebedero sin agua";  // Mensaje de alerta
 
 void setup() {
